@@ -10,6 +10,8 @@
 * [Robotics workbook from Boys Life](https://boyslifeorg.files.wordpress.com/2011/04/roboticsworkbook.pdf)
 * [A sample Robot Engineering Notebook](http://troop75.us/files/MeritBadgeResources/Robotics/Robot%20Engineering%20Notebook.pdf)
 
+* [Introduction to Robotics merit badge](https://www.youtube.com/watch?v=tb98EQTqKXM)
+
 #### Videos of industrial robots in action:
 * [ABB Robotics - 10 most popular applications for robots](https://www.youtube.com/watch?v=fH4VwTgfyrQ)
 * [How the Tesla Model S is Made - 160 robots are used](https://www.youtube.com/watch?v=8_lfxPI5ObM)
