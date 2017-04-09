@@ -22,3 +22,6 @@
 
 #### Robot Safety:
 * [Robotics Technician Certificate Program - Robot Safety - Environment Access Control](https://www.youtube.com/watch?v=b_Y9fJbiTKw)
+
+#### Degrees of Freedom
+* [Robotics & Degrees of Freedom](https://www.youtube.com/watch?v=9LEGvJ6kBN0)
