@@ -31,3 +31,18 @@
 #### LEGO Digital Designer
 * [LEGO Digital Designer](http://ldd.lego.com/en-us/)
 * [LEGO Digital Designer MINDSTORMS mode](http://ldd.lego.com/en-us/subpages/mindstorms)
+
+#### Robot kits:
+* [Pi2Go Robot for Raspberry Pi](https://4tronix.co.uk/store/index.php?rt=product/product&path=66_68&product_id=471)
+* [Dexter Industries BrickPi](https://www.dexterindustries.com/BrickPi/)
+* [Dexter Industries GoPiGo](https://www.dexterindustries.com/GoPiGo/)
+* [Feather Bluetooth Mini Robot](https://www.adafruit.com/product/3235)
+
+#### Raspberry Pi Robots Video Series:
+* [Raspberry Pi Robots!](https://www.theraspberrypiguy.com/raspberry-pi-robots/)
+* [Raspberry Pi Robots – Basic Motor Control – Episode 1](https://www.theraspberrypiguy.com/raspberry-pi-robots-basic-motor-control-episode-1/)
+* [Raspberry Pi Robots – Obstacle Avoidance – Episode 2](https://www.theraspberrypiguy.com/raspberry-pi-robots-obstacle-avoidance-episode-2/)
+* [Raspberry Pi Robots – Line Following – Episode 3](https://www.theraspberrypiguy.com/raspberry-pi-robots-line-following-episode-3/)
+
+#### Misc. Robot links:
+* [How to Make a Line Follower Robot in 10 Minutes](https://diyhacking.com/make-line-follower-robot)
