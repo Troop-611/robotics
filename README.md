@@ -37,6 +37,7 @@
 * [Dexter Industries BrickPi](https://www.dexterindustries.com/BrickPi/)
 * [Dexter Industries GoPiGo](https://www.dexterindustries.com/GoPiGo/)
 * [Feather Bluetooth Mini Robot](https://www.adafruit.com/product/3235)
+* [PiStorms-v2 - Raspberry Pi Brain for LEGO](http://www.mindsensors.com/stem-with-robotics/13-pistorms-v2-base-kit-raspberry-pi-brain-for-lego-robot)
 
 #### Raspberry Pi Robots Video Series:
 * [Raspberry Pi Robots!](https://www.theraspberrypiguy.com/raspberry-pi-robots/)
